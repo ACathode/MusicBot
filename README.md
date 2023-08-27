@@ -23,15 +23,17 @@ Keep in mind that this was a frankenstein project where I yoinked things from AN
 So odds are you'll needn't some packages I had installed and listed in the package.json file.
 
 List of packages:
-@discord-player/extractor
-@discordjs/builders
-@discordjs/opus
-@discordjs/rest
-@discordjs/voice
-discord-api-types
-discord-player
-discord.js
+
+@discord-player/extractor,
+@discordjs/builders,
+@discordjs/opus,
+@discordjs/rest,
+@discordjs/voice,
+discord-api-types,
+discord-player,
+discord.js,
 dotenv
+
 
 ALSO MAKE SURE YOU'VE REPLACED THE VALUES IN THE CONFIG.JSON FILE TOO!
 
